@@ -1,6 +1,6 @@
 # Crab Game +
 Maps made by: \
-Sunken Studios - Cliffside Crazy, Pirate Wars \
+Sunken Studios - Cliffside Crazy, Pirate Wars, Mellow Mountain \
 oli - Ruins \
 Vipper - Icy Cliff (modification of Cliffside Crazy) \
 \
